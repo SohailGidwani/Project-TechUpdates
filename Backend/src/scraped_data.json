@@ -1,0 +1,744 @@
+[
+    {
+        "Title": "How the ransomware attack at Change Healthcare went down: A timeline",
+        "Details": "A hack on UnitedHealth-owned tech giant Change Healthcare likely stands as one of the biggest data breaches of U.S. medical data in history.",
+        "Type": "Security",
+        "URL": "https://techcrunch.com/2024/08/17/how-the-ransomware-attack-at-change-healthcare-went-down-a-timeline/",
+        "Source": "TechCrunch"
+    },
+    {
+        "Title": "OpenAI shuts down election influence operation that used ChatGPT",
+        "Details": "OpenAI has banned a cluster of ChatGPT accounts linked to an Iranian influence operation that was generating content about the U.S. presidential election, according to a blog post on Friday.",
+        "Type": "AI",
+        "URL": "https://techcrunch.com/2024/08/16/openai-shuts-down-election-influence-operation-using-chatgpt/",
+        "Source": "TechCrunch"
+    },
+    {
+        "Title": "Gogoro delays India plans due to policy uncertainty, launches bike-taxi pilot with Rapido",
+        "Details": "Gogoro has deferred its India plans over delay in government incentives, but the Taiwanese company has partnered with Rapido for a bike-taxi pilot.",
+        "Type": "Transportation",
+        "URL": "https://techcrunch.com/2024/08/16/gogoro-delays-india-plans-due-to-policy-uncertainty-launches-bike-taxi-pilot-with-rapido/",
+        "Source": "TechCrunch"
+    },
+    {
+        "Title": "The Nevera R all-new electric hypercar can hit a top speed of 217 mph, and it only starts at $2.5 million",
+        "Details": "Rimac revealed Friday during The Quail, a Motorsports Gathering at Monterey Car Week the Nevera R, an all-electric hypercar that\u2019s meant to push the performance bounds of its predecessor.",
+        "Type": "Transportation",
+        "URL": "https://techcrunch.com/2024/08/16/rimac-squeezes-more-power-into-its-new-all-electric-hypercar-nevera-r-and-it-only-starts-at-2-5-million/",
+        "Source": "TechCrunch"
+    },
+    {
+        "Title": "California weakens bill to prevent AI disasters before final vote, taking advice from Anthropic",
+        "Details": "The Commission is seeking more information from Meta following its decision to deprecate its CrowdTangle transparency tool. The latest EU request for information (RFI) on Meta has been made under\u2026",
+        "Type": "Government & Policy",
+        "URL": "https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/",
+        "Source": "TechCrunch"
+    },
+    {
+        "Title": "Danish VC Nine Realms receives \u20ac50M from EIF to invest in European supply chain sector",
+        "Details": "Danish VC Nine Realms receives \u20ac50M from EIF to invest in European supply chain sector",
+        "Type": "Europe Tech News, Funding News, Latest News, Top Stories, VC News",
+        "URL": "https://techfundingnews.com/danish-vc-nine-realms-receives-e50m-from-eif-to-invest-in-european-supply-chain-sector/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "Jeff Bezos\u2019 brother launches HIPstr, a $100M debut fund",
+        "Details": "Jeff Bezos\u2019 brother launches HIPstr, a $100M debut fund",
+        "Type": "Funding News, Latest News, Top Funding Rounds, Top Stories, US Tech News",
+        "URL": "https://techfundingnews.com/jeff-bezos-brother-launches-hipstr-a-100m-debut-fund/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "Berlin-based Caresyntax raises $180M for AI surgery platform",
+        "Details": "Berlin-based Caresyntax raises $180M for AI surgery platform",
+        "Type": "Europe Tech News, Funding News, Latest News, Startups News, Top Funding Rounds, Top Stories",
+        "URL": "https://techfundingnews.com/berlin-based-caresyntax-raises-180m-for-ai-surgery-platform/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "Cybersecurity unicorn Kiteworks snaps $465M at over $1B valuation to secure communications",
+        "Details": "Cybersecurity unicorn Kiteworks snaps $465M at over $1B valuation to secure communications",
+        "Type": "Funding News, Latest News, Top Funding Rounds, Top Stories, Unicorns, US Tech News",
+        "URL": "https://techfundingnews.com/cybersecurity-unicorn-kiteworks-snaps-465m-at-over-1b-valuation-to-secure-communications/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "AI for code reviews: CodeRabbit snaps $16M to help developers debug faster",
+        "Details": "AI for code reviews: CodeRabbit snaps $16M to help developers debug faster",
+        "Type": "Funding News, Latest News, Startups News, Top Stories, US Tech News",
+        "URL": "https://techfundingnews.com/ai-for-code-reviews-coderabbit-snaps-16m-to-help-developers-debug-faster/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "London-based Hexarad secures \u20ac13M to help NHS address radiology backlogs",
+        "Details": "London-based Hexarad secures \u20ac13M to help NHS address radiology backlogs",
+        "Type": "Funding News, Latest News, Startups News, Top Stories, UK Tech News",
+        "URL": "https://techfundingnews.com/london-based-hexarad-secures-e13m-to-help-nhs-address-radiology-backlogs/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "Swedish grid startup Flower scoops \u20ac25M to use clean energy to power society",
+        "Details": "Swedish grid startup Flower scoops \u20ac25M to use clean energy to power society",
+        "Type": "Europe Tech News, Funding News, Latest News, Startups News",
+        "URL": "https://techfundingnews.com/swedish-grid-startup-flower-scoops-e25m-to-use-clean-energy-to-power-society/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "London-based trumpet secures $6.35M to create personalised digital sales rooms",
+        "Details": "London-based trumpet secures $6.35M to create personalised digital sales rooms",
+        "Type": "Funding News, Latest News, Startups News, Top Stories, UK Tech News",
+        "URL": "https://techfundingnews.com/london-based-trumpet-secures-6-35m-to-create-personalised-digital-sales-rooms/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "Founders Factory\u2019s Bianca F. shares her golden rules on building an AI startup and overcoming \u2018default capacity\u2019 in tech industry",
+        "Details": "Founders Factory\u2019s Bianca F. shares her golden rules on building an AI startup and overcoming \u2018default capacity\u2019 in tech industry",
+        "Type": "AI News, Interviews, Latest News, TFN Partner Content, Top Stories",
+        "URL": "https://techfundingnews.com/founders-factorys-bianca-f-shares-her-golden-rules-on-building-an-ai-startup-and-overcoming-default-capacity-in-tech-industry/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "AI proptech unicorn EliseAI raises $75M for chatbots connecting renters and property managers",
+        "Details": "AI proptech unicorn EliseAI raises $75M for chatbots connecting renters and property managers",
+        "Type": "Funding News, Latest News, Top Stories, Unicorns, US Tech News",
+        "URL": "https://techfundingnews.com/ai-proptech-unicorn-eliseai-raises-75m-for-chatbots-connecting-renters-and-property-managers/",
+        "Source": "Tech Funding News"
+    },
+    {
+        "Title": "AMD Ryzen 9000 review: Impressive efficiency, with bugs and so-so speed boosts",
+        "Details": "High prices on an already-expensive AM5 platform make them a hard sell, though.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/gadgets/2024/08/amd-ryzen-9000-review-impressive-efficiency-with-bugs-and-so-so-speed-boosts/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "Meteorites give the Moon its extremely thin atmosphere",
+        "Details": "Impacts that vaporize bits of the lunar surface maintain the Moon's thin atmosphere.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "Judge calls foul on Venu, blocks launch of ESPN-Warner-Fox streaming service",
+        "Details": "Upcoming launch of $42.99 sports package likely to \"substantially lessen competition.\"",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/tech-policy/2024/08/judge-calls-foul-on-venu-blocks-launch-of-espn-warner-fox-streaming-service/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "Chinese social media users hilariously mock AI video fails",
+        "Details": "TikTok and Bilibili users transform nonsensical AI glitches into real-world performance art.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/information-technology/2024/08/viral-trend-sees-humans-simulating-bizarre-ai-video-glitches/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "Epic Games Store and Fortnite arrive on EU iPhones",
+        "Details": "Epic also launched its store on Android.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "The Crimson Diamond is a wonderful EGA-like graphic adventure game for 2024",
+        "Details": "The parser works much better than you'd think, and the mystery is pitch-perfect.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/gaming/2024/08/the-crimson-diamond-is-a-wonderful-ega-like-graphic-adventure-game-for-2024/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "Explosion of cicada-eating mites has the state of Illinois scratching",
+        "Details": "The good news: There's little risk beyond the rash. The bad: The rash is awful.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/science/2024/08/itchy-in-illinois-a-mite-y-boom-in-the-wake-of-cicadas-may-be-to-blame/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "New Windows 11 build removes ancient, arbitrary 32GB size limit for FAT32 disks",
+        "Details": "But the Windows NT-era disk formatting UI hasn't been fixed yet.",
+        "Type": "Feature Story",
+        "URL": "https://arstechnica.com/gadgets/2024/08/new-windows-11-build-removes-ancient-arbitrary-32gb-size-limit-for-fat32-disks/",
+        "Source": "Ars Technica"
+    },
+    {
+        "Title": "Just use Postgres",
+        "Details": " via gmem 5 hours ago",
+        "Type": "databases",
+        "URL": "https://mccue.dev/pages/8-16-24-just-use-postgres",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Wikipedia Reader for classic MacOS (2023)",
+        "Details": " authored by jcs 16 hours ago",
+        "Type": "c, mac",
+        "URL": "https://jcs.org/wikipedia",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "An unordered list of things I miss in Go",
+        "Details": " authored by kokada 1 hour ago",
+        "Type": "go",
+        "URL": "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "noexcept affects libstdc++\u2019s unordered_set",
+        "Details": " via raymii 6 hours ago",
+        "Type": "c++",
+        "URL": "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Decision Logs",
+        "Details": " via hwayne 23 hours ago",
+        "Type": "practices",
+        "URL": "https://buttondown.com/j2kun/archive/decision-logs/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Designing a shell language for the 2010s",
+        "Details": " authored by xiaq 25 hours ago",
+        "Type": "video, programming",
+        "URL": "https://www.youtube.com/watch?v=wrl9foNXdgM",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Systems Distributed '24",
+        "Details": " via ansemjo 7 hours ago",
+        "Type": "video, event",
+        "URL": "https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "The dired abstraction",
+        "Details": " authored by xenodium 28 hours ago",
+        "Type": "emacs, lisp",
+        "URL": "https://lmno.lol/alvaro/the-dired-abstraction",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "libpomp: Printf Oriented Message Protocol",
+        "Details": " via mpweiher 7 hours ago",
+        "Type": "compsci",
+        "URL": "https://github.com/Parrot-Developers/libpomp",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Whither CockroachDB?",
+        "Details": " via simonw 17 hours ago",
+        "Type": "culture, databases",
+        "URL": "https://rfd.shared.oxide.computer/rfd/0508",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "A case for vanilla JSX",
+        "Details": " via kylewlacy 16 hours ago",
+        "Type": "javascript",
+        "URL": "https://vanillajsx.com/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Process Zero: The Anti-Intelligent Camera",
+        "Details": " via equeue 24 hours ago",
+        "Type": "ai, graphics",
+        "URL": "https://www.lux.camera/introducing-process-zero-for-iphone/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Draft for ECMAScript Error Safe Assignment Operator",
+        "Details": " via alper 8 hours ago",
+        "Type": "javascript",
+        "URL": "https://github.com/arthurfiorette/proposal-safe-assignment-operator",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "stardom dreams, stalking devices and the secret conglomerate selling both",
+        "Details": " via Corbin 17 hours ago",
+        "Type": "privacy, reversing, security",
+        "URL": "https://maia.crimew.gay/posts/gps-track-deez-nuts/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "UNIX day 20000 is happening the 4th of October",
+        "Details": " authored by xyproto 17 hours ago",
+        "Type": "show, unix",
+        "URL": "https://github.com/xyproto/ud",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Automating my /now page",
+        "Details": " authored by akash 30 hours ago",
+        "Type": "go",
+        "URL": "https://akashgoswami.dev/posts/automating-my-now-page/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Official native Windows support for OCaml with opam 2.2.0",
+        "Details": " via imadij 1 hour ago",
+        "Type": "ml, release",
+        "URL": "https://opam.ocaml.org/blog/opam-2-2-0/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Techniques for Safe Garbage Collection in Rust",
+        "Details": " via MatheusRich 13 hours ago",
+        "Type": "plt, rust",
+        "URL": "https://kyju.org/blog/rust-safe-garbage-collection/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Replace Docker Compose with Quadlet for Servers",
+        "Details": " via cetera 19 hours ago",
+        "Type": "devops",
+        "URL": "https://matduggan.com/replace-compose-with-quadlet/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "The Lifecycle of an Instruction Set",
+        "Details": " via xoranth 5 hours ago",
+        "Type": "video, hardware",
+        "URL": "https://player.vimeo.com/video/450406346",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Free, OpenSource IPv6 Textbook",
+        "Details": " via lorddimwit 17 hours ago",
+        "Type": "book, networking",
+        "URL": "https://ipv6textbook.com/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "A comparison of Arenas in Rust",
+        "Details": " via kerollmops 31 hours ago",
+        "Type": "rust",
+        "URL": "https://donsz.nl/blog/arenas/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Announcing the official Elixir Language Server team",
+        "Details": " via adamcstephens 42 hours ago",
+        "Type": "elixir",
+        "URL": "http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "How to write seemingly unhygienic and referentially opaque macros with Scheme syntax-rules",
+        "Details": " via fanf 17 hours ago",
+        "Type": "pdf, lisp",
+        "URL": "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "Contracts, Undefined Behavior, and Defensive Programming",
+        "Details": " via lucic71 21 hours ago",
+        "Type": "pdf, programming",
+        "URL": "https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf",
+        "Source": "Lobsters"
+    },
+    {
+        "Title": "The Most-Active US Series A And B Investors Made More Bets In H1 2024",
+        "Details": "Andreessen Horowitz, General Catalyst and Khosla Ventures were the most-active U.S. investors leading Series A and B rounds globally in the first half of 2024.",
+        "Type": "Artificial intelligence \u2022 Health, Wellness & Biotech \u2022 Robotics \u2022 Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/venture/most-active-us-investors-series-a-b-h1-2024/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "The Week\u2019s 10 Biggest Funding Rounds: Cybersecurity Leads With Kiteworks\u2019 Nearly Half-Billion-Dollar Deal",
+        "Details": "This week definitely saw a slowdown in big rounds, with only three deals breaking the $100 million mark. However, healthcare and medical device makers did well.",
+        "Type": "Artificial intelligence \u2022 Cybersecurity \u2022 Fintech & e-commerce \u2022 Health, Wellness & Biotech \u2022 Startups \u2022 Venture \u2022 Web3",
+        "URL": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cybersecurity-healthcare-kiteworks/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "The Crunchbase Tech Layoffs Tracker",
+        "Details": "More than 191,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2023, per a Crunchbase News tally, and the cuts have continued into 2024. See who the latest companies are to...",
+        "Type": "Economy \u2022 Job market \u2022 Layoffs \u2022 Public Markets \u2022 Startups",
+        "URL": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "More Early-Stage Startups Are Getting Minted As Unicorns",
+        "Details": "Chris MetinkoAugust 15, 2024",
+        "Type": "Artificial intelligence \u2022 Startups \u2022 Venture \u2022 Web3",
+        "URL": "https://news.crunchbase.com/venture/early-stage-startup-unicorns-ai-web3/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "Cyber Startup Kiteworks Locks Up $456M From Insight, Sixth Street",
+        "Details": "Chris MetinkoAugust 14, 2024",
+        "Type": "Cybersecurity \u2022 Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/cybersecurity/startup-kiteworks-unicorn-abnormal-insight/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "AI Startup Deal-Making Gaining Momentum \u2014 Is That Good?",
+        "Details": "Chris MetinkoAugust 14, 2024",
+        "Type": "Artificial intelligence \u2022 M&A \u2022 Robotics \u2022 Startups",
+        "URL": "https://news.crunchbase.com/ma/ai-startup-deal-making-msft-goog-amzn/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "a16z-Backed Fintech Startup Tally Closes Doors",
+        "Details": "Chris MetinkoAugust 13, 2024",
+        "Type": "Economy \u2022 Fintech & e-commerce \u2022 Layoffs \u2022 Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/fintech-ecommerce/startup-tally-closes-sway-a16z/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "Lucky 13: A Baker\u2019s Dozen Join Unicorn List In July",
+        "Details": "Gen\u00e9 TeareAugust 13, 2024",
+        "Type": "Artificial intelligence \u2022 Clean tech and energy \u2022 Cybersecurity \u2022 Fintech & e-commerce \u2022 Health, Wellness & Biotech \u2022 Media & entertainment tech \u2022 Robotics \u2022 Startups \u2022 Transportation & Logistics \u2022 Venture",
+        "URL": "https://news.crunchbase.com/venture/unicorn-board-july-2024-healthcare-biotech/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "The Case For The Uncapped SAFE",
+        "Details": "Dan GrayAugust 13, 2024",
+        "Type": "Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/startups/uncapped-safe-case-gray-equidam/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "WeRide Debut Is A Test Drive For A Slow IPO Market",
+        "Details": "Joanna GlasnerAugust 12, 2024",
+        "Type": "Artificial intelligence \u2022 IPO \u2022 Public Markets \u2022 Startups \u2022 Transportation & Logistics",
+        "URL": "https://news.crunchbase.com/public/autonomous-vehicle-startup-weride-ipo/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "Most-Active US Investors In July: Andreessen Horowitz Led Cool Month",
+        "Details": "Chris MetinkoAugust 12, 2024",
+        "Type": "Artificial intelligence \u2022 Health, Wellness & Biotech \u2022 Robotics \u2022 Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/venture/most-active-us-investors-july-2024-andreessen/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "The Week\u2019s 10 Biggest Funding Rounds: Anduril Industries Raises Big For Defense",
+        "Details": "Chris MetinkoAugust 9, 2024",
+        "Type": "Artificial intelligence \u2022 Cybersecurity \u2022 Health, Wellness & Biotech \u2022 Semiconductors and 5G \u2022 Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-defense-tech-ai-biotech/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "US Series A And B Funding Picked Up in H1. What Does That Mean For Funding In 2024?",
+        "Details": "Gen\u00e9 TeareAugust 9, 2024",
+        "Type": "Artificial intelligence \u2022 Health, Wellness & Biotech \u2022 Startups \u2022 Venture",
+        "URL": "https://news.crunchbase.com/venture/us-a-b-series-funding-uptick-h1-2024-healthcare-ai/",
+        "Source": "Crunchbase News"
+    },
+    {
+        "Title": "Increasing Retention Without Increasing Study Time [pdf]",
+        "Details": "80 points by JustinSkycak 2 hours ago | hide | 23\u00a0comments",
+        "Type": "[ed.gov]",
+        "URL": "https://files.eric.ed.gov/fulltext/ED505647.pdf",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Hacking with PDF (2022)",
+        "Details": "38 points by lnyan 2 hours ago | hide | 1\u00a0comment",
+        "Type": "[0xcybery.github.io]",
+        "URL": "https://0xcybery.github.io/blog/hacking-with-pdf",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Interviewing the Interviewer: Questions to Uncover a Company's True Culture",
+        "Details": "192 points by abhas9 10 hours ago | hide | 112\u00a0comments",
+        "Type": "[praachi.work]",
+        "URL": "https://praachi.work/blog/questions-to-ask-in-a-job-interview",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Xapian: Open source search engine library",
+        "Details": "99 points by Bluestein 5 hours ago | hide | 28\u00a0comments",
+        "Type": "[xapian.org]",
+        "URL": "https://xapian.org/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Analysis of EV charging stations finds reliability issues galore",
+        "Details": "12 points by speckx 3 hours ago | hide | 6\u00a0comments",
+        "Type": "[emergingtechbrew.com]",
+        "URL": "https://www.emergingtechbrew.com/stories/2024/08/12/chargerhelp-analysis-ev-charging-stations",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "VanillaJSX.com",
+        "Details": "457 points by novocantico 21 hours ago | hide | 185\u00a0comments",
+        "Type": "[vanillajsx.com]",
+        "URL": "https://vanillajsx.com/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Running NixOS on Proxmox LXC",
+        "Details": "12 points by rcarmo 46 minutes ago | hide | 2\u00a0comments",
+        "Type": "[taoofmac.com]",
+        "URL": "https://taoofmac.com/space/blog/2024/08/17/1530",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "\"Frost crack\" sounds may come from sky, not trees",
+        "Details": "200 points by jnord 16 hours ago | hide | 58\u00a0comments",
+        "Type": "[nautil.us]",
+        "URL": "https://nautil.us/how-the-night-sky-speaks-to-us-772258/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'",
+        "Details": "25 points by stalfosknight 52 minutes ago | hide | 10\u00a0comments",
+        "Type": "[theverge.com]",
+        "URL": "https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Discrete Mathematics \u2013 An Open Introduction, 4th edition",
+        "Details": "375 points by yawboakye 1 day ago | hide | 38\u00a0comments",
+        "Type": "[openmathbooks.org]",
+        "URL": "https://discrete.openmathbooks.org/dmoi4.html",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Encyclopedia of Optimization",
+        "Details": "26 points by egorpv 4 hours ago | hide | 5\u00a0comments",
+        "Type": "[springer.com]",
+        "URL": "https://link.springer.com/referencework/10.1007/978-0-387-74759-0",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Slackdump",
+        "Details": "91 points by xnx 11 hours ago | hide | 22\u00a0comments",
+        "Type": "[github.com/rusq]",
+        "URL": "https://github.com/rusq/slackdump",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "China's manufacturers are going broke",
+        "Details": "33 points by campuscodi 1 hour ago | hide | 23\u00a0comments",
+        "Type": "[economist.com]",
+        "URL": "https://www.economist.com/business/2024/08/08/chinas-manufacturers-are-going-broke",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Stressed mouse brain sends gut messages that reduce beneficial bacteria levels",
+        "Details": "27 points by gmays 2 hours ago | hide | 6\u00a0comments",
+        "Type": "[medicalxpress.com]",
+        "URL": "https://medicalxpress.com/news/2024-08-mouse-brain-stress-messages-gut.html",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Zngur: A C++/Rust interop tool",
+        "Details": "121 points by hkalbasi 16 hours ago | hide | 25\u00a0comments",
+        "Type": "[hkalbasi.github.io]",
+        "URL": "https://hkalbasi.github.io/zngur/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Nu-Klear Fallout Detector (ca. 1962-1968)",
+        "Details": "57 points by cryptoz 6 hours ago | hide | 17\u00a0comments",
+        "Type": "[orau.org]",
+        "URL": "https://www.orau.org/health-physics-museum/collection/civil-defense/citizens/nuklear.html",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "LLM and Bug Finding: Insights from a $2M Winning Team in the White House's AIxCC",
+        "Details": "141 points by garlic_chives 18 hours ago | hide | 29\u00a0comments",
+        "Type": "[team-atlanta.github.io]",
+        "URL": "https://team-atlanta.github.io/blog/post-atl/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "A Texas \"moth man\" photographed 550 species in his own yard",
+        "Details": "220 points by anarbadalov 23 hours ago | hide | 88\u00a0comments",
+        "Type": "[texasmonthly.com]",
+        "URL": "https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Ditch the sim rig and use your car instead (2019)",
+        "Details": "77 points by alavry 13 hours ago | hide | 12\u00a0comments",
+        "Type": "[outlandnish.com]",
+        "URL": "https://outlandnish.com/hacks/ditch-the-sim-rig-use-your-car-instead/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "The Apple IIGS Megahertz Myth",
+        "Details": "192 points by rbanffy 22 hours ago | hide | 80\u00a0comments",
+        "Type": "[userlandia.com]",
+        "URL": "https://www.userlandia.com/home/iigs-mhz-myth",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "ThreadPlotter \u2013 toolkit for punch needle embroidery with X-Y plotters (2020)",
+        "Details": "119 points by matthberg 18 hours ago | hide | 13\u00a0comments",
+        "Type": "[github.com/liciahe]",
+        "URL": "https://github.com/LiciaHe/threadPlotter",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "X ordered to pay \u20ac550k to Irish employee fired after yes-or-resign ultimatum",
+        "Details": "391 points by pzmarzly 7 hours ago | hide | 301\u00a0comments",
+        "Type": "[fortune.com]",
+        "URL": "https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "The future of Deep Learning frameworks",
+        "Details": "146 points by lairv 19 hours ago | hide | 68\u00a0comments",
+        "Type": "[neel04.github.io]",
+        "URL": "https://neel04.github.io/my-website/blog/pytorch_rant/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Brain found to store three copies of every memory",
+        "Details": "49 points by wjSgoWPm5bWAhXB 5 hours ago | hide | 36\u00a0comments",
+        "Type": "[newatlas.com]",
+        "URL": "https://newatlas.com/biology/brain-three-copies-memory/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "NSA tracks Google ads to find Tor users",
+        "Details": "86 points by fury999io 2 hours ago | hide | 45\u00a0comments",
+        "Type": "[cnet.com]",
+        "URL": "https://www.cnet.com/news/privacy/nsa-tracks-google-ads-to-find-tor-users/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Crafting a 13KB Game: The Story of Space Huggers",
+        "Details": "214 points by lovegrenoble 1 day ago | hide | 36\u00a0comments",
+        "Type": "[frankforce.com]",
+        "URL": "https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Show HN: Learn Blender shortcuts with lots of tiny videos",
+        "Details": "108 points by hollisbrown 17 hours ago | hide | 33\u00a0comments",
+        "Type": "[hollisbrown.github.io]",
+        "URL": "https://hollisbrown.github.io/blendershortcuts/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Using a list to manage executive function",
+        "Details": "225 points by swah 1 day ago | hide | 43\u00a0comments",
+        "Type": "[drmaciver.substack.com]",
+        "URL": "https://drmaciver.substack.com/p/using-a-list-to-manage-executive",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "What Is a Knowledge Graph?",
+        "Details": "162 points by Anon84 21 hours ago | hide | 45\u00a0comments",
+        "Type": "[neo4j.com]",
+        "URL": "https://neo4j.com/blog/what-is-knowledge-graph/",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "MIT engineers design tiny batteries for powering cell-sized robots",
+        "Details": "92 points by meysamazad 1 day ago | hide | 16\u00a0comments",
+        "Type": "[news.mit.edu]",
+        "URL": "https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815",
+        "Source": "YCombinator"
+    },
+    {
+        "Title": "Space Telescope Data Reignites Debate Over How Fast Our Universe Is Expanding",
+        "Details": "A new front has opened in the longstanding debate over how fast the universe is expanding, writes *Science* magazine: For years astronomers have argued over a gulf between the expansion rate as measured from galaxies in the local universe and as calculated from studies of the cosmic microwave background (CMB), the afterglow of the Big Bang. The disparity was so large and persistent that some astronomers thought the standard theory of the universe might have to be tweaked. But over the past week, results from NASA's new James Webb Space Telescope orbiting observatory suggest the problem may be more mundane: some systematic error in the strategies used to measure the distance to nearby galaxies.",
+        "Type": "Space",
+        "URL": "//science.slashdot.org/story/24/08/17/0320247/space-telescope-data-reignites-debate-over-how-fast-our-universe-is-expanding",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "GitHub Promises 'Additional Guardrails' After Wednesday's Update Triggers Short Outage",
+        "Details": "Wednesday GitHub \"broke itself,\" reports the Register, writing that \"the Microsoft-owned code-hosting outfit says it made a change involving its database infrastructure, which sparked a global outage of its various services.\"",
+        "Type": "Programming",
+        "URL": "//developers.slashdot.org/story/24/08/17/0411234/github-promises-additional-guardrails-after-wednesdays-update-triggers-short-outage",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "An Insider's Perspective Into the Pentagon's UFO Hunt",
+        "Details": "In his new memoir, [Imminent](https://premierecollectibles.com/imminent?srsltid=AfmBOoqgO5lRhrkhUqjcleZcHNZNZPj_JFNZV0mIbi_r7-feCr_mgYi-), former senior intelligence official Luis Elizondo claims that a supersecret program has been [retrieving technology and biological remains of nonhuman origin for decades](https://www.nytimes.com/2024/08/16/books/booksupdate/imminent-luiz-elizondo.html), warning that these phenomena could pose a serious national security threat or even an existential threat to humanity.",
+        "Type": "Sci-Fi",
+        "URL": "//entertainment.slashdot.org/story/24/08/17/0349202/an-insiders-perspective-into-the-pentagons-ufo-hunt",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "NASA Citizen Scientists Spot Object Moving 1 Million Miles Per Hour",
+        "Details": "Citizen scientists from NASA's Backyard Worlds: Planet 9 project discovered a hypervelocity object, CWISE J1249, [moving fast enough to escape the Milky Way](https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/).",
+        "Type": "Space",
+        "URL": "//science.slashdot.org/story/24/08/17/0251248/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "US Presses the 'Reset Button' On Technology That Lets Cars Talk To Each Other",
+        "Details": "An anonymous reader quotes a report from NPR: Safety advocates have been touting the potential of technology that allows vehicles to communicate wirelessly for years. So far, the rollout has been slow and uneven.",
+        "Type": "Transportation",
+        "URL": "//tech.slashdot.org/story/24/08/17/0015239/us-presses-the-reset-button-on-technology-that-lets-cars-talk-to-each-other",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "National Public Data Confirms Breach Exposing Social Security Numbers",
+        "Details": "BleepingComputer's Ionut Ilascu reports: Background check service National Public Data [confirms that hackers breached its systems](https://www.bleepingcomputer.com/news/security/national-public-data-confirms-breach-exposing-social-security-numbers/) after threat actors [leaked a stolen database](https://yro.slashdot.org/story/24/08/10/2158217/cyber-heist-of-29-billion-personal-records-leads-to-class-action-lawsuit) with millions of social security numbers and other sensitive personal information.",
+        "Type": "Privacy",
+        "URL": "//yro.slashdot.org/story/24/08/17/0024202/national-public-data-confirms-breach-exposing-social-security-numbers",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "US Fines T-Mobile $60 Million, Its Largest Penalty Ever, Over Unauthorized Data Access",
+        "Details": "The U.S. Committee on Foreign Investment (CFIUS) [fined T-Mobile $60 million](https://www.reuters.com/business/media-telecom/us-committee-slaps-60-million-fine-t-mobile-over-unauthorized-data-access-2024-08-14/), its largest penalty ever, for failing to prevent and report unauthorized access to sensitive data tied to violations of a mitigation agreement from its 2020 merger with Sprint.",
+        "Type": "The Almighty Buck",
+        "URL": "//news.slashdot.org/story/24/08/17/007201/us-fines-t-mobile-60-million-its-largest-penalty-ever-over-unauthorized-data-access",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "Dubai Court Recognizes Crypto As a Valid Salary Payment",
+        "Details": "The Dubai Court of First Instance has declared that cryptocurrency [can be used as a legal form of salary](https://cointelegraph.com/news/dubai-court-recognizes-crypto-salary-payments) under employment contracts.",
+        "Type": "The Almighty Buck",
+        "URL": "//yro.slashdot.org/story/24/08/16/2357215/dubai-court-recognizes-crypto-as-a-valid-salary-payment",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "Smart Sous Vide Cooker To Start Charging Monthly Fee For 10-Year-Old Companion App",
+        "Details": "An anonymous reader quotes a report from Ars Technica: Anova, a company that sells smart sous vide cookers, is getting backlash from customers after announcing that it will [soon charge a subscription fee for the device's companion app](https://arstechnica.com/gadgets/2024/08/smart-sous-vide-cooker-to-start-charging-2-month-for-10-year-old-companion-app/).",
+        "Type": "The Almighty Buck",
+        "URL": "//news.slashdot.org/story/24/08/16/2051255/smart-sous-vide-cooker-to-start-charging-monthly-fee-for-10-year-old-companion-app",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "IKEA's Stock-Counting Warehouse Drones Will Fly Alongside Workers In the US",
+        "Details": "IKEA is [expanding](ahref=) its stock-counting drone system to [operate alongside workers in the U.S.](https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse), starting with its Perryville, Maryland distribution center.",
+        "Type": "Technology",
+        "URL": "//tech.slashdot.org/story/24/08/16/2042221/ikeas-stock-counting-warehouse-drones-will-fly-alongside-workers-in-the-us",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "Judge Bars Disney, Warner, Fox From Launching Sports Streamer Venu",
+        "Details": "A federal judge [blocked the launch of Venu](https://variety.com/2024/tv/news/judge-bars-disney-warner-fox-venu-launch-fubotv-1236109394/), a sports streaming joint venture by Disney, Fox, and Warner Bros. Discovery, due to concerns it would substantially lessen competition and harm FuboTV.",
+        "Type": "Television",
+        "URL": "//entertainment.slashdot.org/story/24/08/16/2026255/judge-bars-disney-warner-fox-from-launching-sports-streamer-venu",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "OpenAI Says Iranian Group Used ChatGPT To Try To Influence US Election",
+        "Details": "An anonymous reader quotes a report from the Washington Post: Artificial intelligence company OpenAI said Friday that an Iranian group had [used its ChatGPT chatbot to generate content to be posted on websites and social media](https://www.washingtonpost.com/technology/2024/08/16/openai-influence-iran-chatgpt-election-harris-trump/) *(Warning: source is paywalled; [alternative source](https://www.axios.com/2024/08/16/openai-iran-disinformation-chatgpt))* seemingly aimed at stirring up polarization among American voters in the presidential election.",
+        "Type": "Politics",
+        "URL": "//politics.slashdot.org/story/24/08/16/2020225/openai-says-iranian-group-used-chatgpt-to-try-to-influence-us-election",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "Ex-Google CEO Says Successful AI Startups Can Steal IP and Hire Lawyers To 'Clean Up the Mess'",
+        "Details": "Eric Schmidt, [at a recent talk](https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai) where he also talked -- and then [walked back the comment](https://tech.slashdot.org/story/24/08/15/1437255/eric-schmidt-walks-back-claim-google-is-behind-on-ai-because-of-remote-work) -- on [Google's work-culture](https://tech.slashdot.org/story/24/08/14/1840215/eric-schmidt-says-google-is-falling-behind-on-ai---and-remote-work-is-why): If TikTok is banned, here's what I propose each and every one of you do: Say to your LLM the following: \"Make me a copy of TikTok, steal all the users, steal all the music, put my preferences in it, produce this program in the next 30 seconds, release it, and in one hour, if it's not viral, do something different along the same lines.\"",
+        "Type": "Businesses",
+        "URL": "//tech.slashdot.org/story/24/08/16/203200/ex-google-ceo-says-successful-ai-startups-can-steal-ip-and-hire-lawyers-to-clean-up-the-mess",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "'The Best, Worst Codebase'",
+        "Details": "Jimmy Miller, programmer and co-host of the future of coding podcast, [writes in a blog](https://jimmyhmiller.github.io/ugliest-beautiful-codebase): When I started programming as a kid, I didn't know people were paid to program. Even as I graduated high school, I assumed that the world of \"professional development\" looked quite different from the code I wrote in my spare time. When I lucked my way into my first software job, I quickly learned just how wrong and how right I had been. My first job was a trial by fire, to this day, that codebase remains the worst and the best codebase I ever had the pleasure of working in.",
+        "Type": "Programming",
+        "URL": "//developers.slashdot.org/story/24/08/16/196212/the-best-worst-codebase",
+        "Source": "Slashdot"
+    },
+    {
+        "Title": "Can Google Make Stoplights Smarter?",
+        "Details": "An anonymous reader [shares a report](https://www.scientificamerican.com/article/googles-project-green-light-uses-ai-to-take-on-city-traffic): Traffic along some of Seattle's stop-and-go streets is running a little smoother after Google tested out a new machine-learning system to optimize stoplight timing at five intersections.",
+        "Type": "AI",
+        "URL": "//tech.slashdot.org/story/24/08/16/180229/can-google-make-stoplights-smarter",
+        "Source": "Slashdot"
+    }
+]
