@@ -4,636 +4,727 @@
         "Details": "Thomas Ingenlath is having perhaps a little too much fun in his Polestar 3, silently rocketing away from stop signs and swinging through tightening bends, grinning like a man far\u2026",
         "Type": "Startups",
         "URL": "https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/",
-        "Source": "TechCrunch"
+        "Source": "TechCrunch",
+        "Category": "Tech"
     },
     {
         "Title": "OpenAI\u2019s new voice mode let me talk with my phone, not to it",
         "Details": "I\u2019ve been playing around with OpenAI\u2019s Advanced Voice Mode for the last week, and it\u2019s the most convincing taste I\u2019ve had of an AI-powered future yet. This week, my phone\u2026",
         "Type": "AI",
         "URL": "https://techcrunch.com/2024/08/17/openais-new-voice-mode-let-me-talk-with-my-phone-not-to-it/",
-        "Source": "TechCrunch"
+        "Source": "TechCrunch",
+        "Category": "AI"
     },
     {
         "Title": "Ikea expands its inventory drone fleet",
         "Details": "One of the biggest questions looming over the drone space is how to best use the tech. Inspection has become a key driver, as the autonomous copters are deployed to\u2026",
         "Type": "Robotics",
         "URL": "https://techcrunch.com/2024/08/17/ikea-expands-its-inventory-drone-fleet/",
-        "Source": "TechCrunch"
+        "Source": "TechCrunch",
+        "Category": "Tech"
     },
     {
         "Title": "X says it\u2019s closing operations in Brazil",
         "Details": "X, the social media platform formerly known as Twitter, said today that it\u2019s ending operations in Brazil, although the service will remain available to users in the country. The announcement\u2026",
         "Type": "Government & Policy",
         "URL": "https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/",
-        "Source": "TechCrunch"
+        "Source": "TechCrunch",
+        "Category": "Tech"
     },
     {
         "Title": "Google takes on OpenAI with Gemini Live",
         "Details": "Made by Google was this week, featuring a full range of reveals from Google\u2019s biggest hardware event. Google unveiled its new lineup of Pixel 9 phones, including the $1,799 Pixel\u2026",
         "Type": "Social",
         "URL": "https://techcrunch.com/2024/08/17/google-takes-on-openai-with-gemini-live/",
-        "Source": "TechCrunch"
+        "Source": "TechCrunch",
+        "Category": "Tech"
     },
     {
         "Title": "AMD Ryzen 9000 review: Impressive efficiency, with bugs and so-so speed boosts",
         "Details": "High prices on an already-expensive AM5 platform make them a hard sell, though.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/gadgets/2024/08/amd-ryzen-9000-review-impressive-efficiency-with-bugs-and-so-so-speed-boosts/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "Tech"
     },
     {
         "Title": "Meteorites give the Moon its extremely thin atmosphere",
         "Details": "Impacts that vaporize bits of the lunar surface maintain the Moon's thin atmosphere.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "None of the provided categories directly relate to the article title 'Meteorites give the Moon its extremely thin atmosphere'. The article seems to be about space, astronomy, or planetary science. However, if I must choose from the given options, none of them accurately fit the category of the article. If forced to choose the closest match, I might suggest \"Tech\" as it could loosely encompass space technology, but this is not an accurate categorization."
     },
     {
         "Title": "Judge calls foul on Venu, blocks launch of ESPN-Warner-Fox streaming service",
         "Details": "Upcoming launch of $42.99 sports package likely to \"substantially lessen competition.\"",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/tech-policy/2024/08/judge-calls-foul-on-venu-blocks-launch-of-espn-warner-fox-streaming-service/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "Tech"
     },
     {
         "Title": "Chinese social media users hilariously mock AI video fails",
         "Details": "TikTok and Bilibili users transform nonsensical AI glitches into real-world performance art.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/information-technology/2024/08/viral-trend-sees-humans-simulating-bizarre-ai-video-glitches/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "AI"
     },
     {
         "Title": "Epic Games Store and Fortnite arrive on EU iPhones",
         "Details": "Epic also launched its store on Android.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "Tech"
     },
     {
         "Title": "The Crimson Diamond is a wonderful EGA-like graphic adventure game for 2024",
         "Details": "The parser works much better than you'd think, and the mystery is pitch-perfect.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/gaming/2024/08/the-crimson-diamond-is-a-wonderful-ega-like-graphic-adventure-game-for-2024/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "Tech"
     },
     {
         "Title": "Explosion of cicada-eating mites has the state of Illinois scratching",
         "Details": "The good news: There's little risk beyond the rash. The bad: The rash is awful.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/science/2024/08/itchy-in-illinois-a-mite-y-boom-in-the-wake-of-cicadas-may-be-to-blame/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "None of the provided categories ('Tech', 'Job Openings', 'Fundings', 'AI', 'Security', 'Transportation') directly relate to the article title 'Explosion of cicada-eating mites has the state of Illinois scratching'. The article seems to be about a biological or environmental issue, possibly related to public health or wildlife. Therefore, none of the given categories are suitable for this article. If I had to choose a category from a broader list, it might be 'Health', 'Environment', or 'Local News'."
     },
     {
         "Title": "New Windows 11 build removes ancient, arbitrary 32GB size limit for FAT32 disks",
         "Details": "But the Windows NT-era disk formatting UI hasn't been fixed yet.",
         "Type": "Feature Story",
         "URL": "https://arstechnica.com/gadgets/2024/08/new-windows-11-build-removes-ancient-arbitrary-32gb-size-limit-for-fat32-disks/",
-        "Source": "Ars Technica"
+        "Source": "Ars Technica",
+        "Category": "Tech"
     },
     {
         "Title": "The Most-Active US Series A And B Investors Made More Bets In H1 2024",
         "Details": "Andreessen Horowitz, General Catalyst and Khosla Ventures were the most-active U.S. investors leading Series A and B rounds globally in the first half of 2024.",
         "Type": "Artificial intelligence \u2022 Health, Wellness & Biotech \u2022 Robotics \u2022 Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/venture/most-active-us-investors-series-a-b-h1-2024/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "Fundings"
     },
     {
         "Title": "The Week\u2019s 10 Biggest Funding Rounds: Cybersecurity Leads With Kiteworks\u2019 Nearly Half-Billion-Dollar Deal",
         "Details": "This week definitely saw a slowdown in big rounds, with only three deals breaking the $100 million mark. However, healthcare and medical device makers did well.",
         "Type": "Artificial intelligence \u2022 Cybersecurity \u2022 Fintech & e-commerce \u2022 Health, Wellness & Biotech \u2022 Startups \u2022 Venture \u2022 Web3",
         "URL": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cybersecurity-healthcare-kiteworks/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category name from the given options that fits the article title 'The Week\u2019s 10 Biggest Funding Rounds: Cybersecurity Leads With Kiteworks\u2019 Nearly Half-Billion-Dollar Deal' is:\n\n'Fundings'"
     },
     {
         "Title": "The Crunchbase Tech Layoffs Tracker",
         "Details": "More than 191,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2023, per a Crunchbase News tally, and the cuts have continued into 2024. See who the latest companies are to...",
         "Type": "Economy \u2022 Job market \u2022 Layoffs \u2022 Public Markets \u2022 Startups",
         "URL": "https://news.crunchbase.com/startups/tech-layoffs/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "Tech"
     },
     {
         "Title": "More Early-Stage Startups Are Getting Minted As Unicorns",
         "Details": "Chris Metinko August 15, 2024",
         "Type": "Artificial intelligence \u2022 Startups \u2022 Venture \u2022 Web3",
         "URL": "https://news.crunchbase.com/venture/early-stage-startup-unicorns-ai-web3/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category that best fits the article title 'More Early-Stage Startups Are Getting Minted As Unicorns' would be 'Fundings'. This is because the term \"unicorns\" in the startup world refers to privately held startups valued at over $1 billion, which is typically a result of funding rounds and investments."
     },
     {
         "Title": "Cyber Startup Kiteworks Locks Up $456M From Insight, Sixth Street",
         "Details": "Chris Metinko August 14, 2024",
         "Type": "Cybersecurity \u2022 Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/cybersecurity/startup-kiteworks-unicorn-abnormal-insight/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category name that best fits the article title 'Cyber Startup Kiteworks Locks Up $456M From Insight, Sixth Street' is 'Fundings'."
     },
     {
         "Title": "AI Startup Deal-Making Gaining Momentum \u2014 Is That Good?",
         "Details": "Chris Metinko August 14, 2024",
         "Type": "Artificial intelligence \u2022 M&A \u2022 Robotics \u2022 Startups",
         "URL": "https://news.crunchbase.com/ma/ai-startup-deal-making-msft-goog-amzn/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The most relevant category for the article titled 'AI Startup Deal-Making Gaining Momentum \u2014 Is That Good?' by Chris Metinko, dated August 14, 2024, would be 'AI'."
     },
     {
         "Title": "a16z-Backed Fintech Startup Tally Closes Doors",
         "Details": "Chris Metinko August 13, 2024",
         "Type": "Economy \u2022 Fintech & e-commerce \u2022 Layoffs \u2022 Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/fintech-ecommerce/startup-tally-closes-sway-a16z/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "Tech"
     },
     {
         "Title": "Lucky 13: A Baker\u2019s Dozen Join Unicorn List In July",
         "Details": "Gen\u00e9 Teare August 13, 2024",
         "Type": "Artificial intelligence \u2022 Clean tech and energy \u2022 Cybersecurity \u2022 Fintech & e-commerce \u2022 Health, Wellness & Biotech \u2022 Media & entertainment tech \u2022 Robotics \u2022 Startups \u2022 Transportation & Logistics \u2022 Venture",
         "URL": "https://news.crunchbase.com/venture/unicorn-board-july-2024-healthcare-biotech/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category name most relevant to the article title 'Lucky 13: A Baker\u2019s Dozen Join Unicorn List In July' would be 'Fundings'. This is because the term \"Unicorn\" in a business context typically refers to a privately held startup company valued at over $1 billion, and the context of joining a unicorn list would likely be related to funding rounds or investment valuations that have pushed these companies to reach or exceed the unicorn status."
     },
     {
         "Title": "The Case For The Uncapped SAFE",
         "Details": "Dan Gray August 13, 2024",
         "Type": "Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/startups/uncapped-safe-case-gray-equidam/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "Based on the article title 'The Case For The Uncapped SAFE' and the details provided, the most likely category from the given options would be 'Fundings'. SAFE stands for Simple Agreement for Future Equity, which is a financial instrument used in startup funding."
     },
     {
         "Title": "WeRide Debut Is A Test Drive For A Slow IPO Market",
         "Details": "Joanna Glasner August 12, 2024",
         "Type": "Artificial intelligence \u2022 IPO \u2022 Public Markets \u2022 Startups \u2022 Transportation & Logistics",
         "URL": "https://news.crunchbase.com/public/autonomous-vehicle-startup-weride-ipo/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category that best fits the article title 'WeRide Debut Is A Test Drive For A Slow IPO Market' is 'Transportation'."
     },
     {
         "Title": "Most-Active US Investors In July: Andreessen Horowitz Led Cool Month",
         "Details": "Chris Metinko August 12, 2024",
         "Type": "Artificial intelligence \u2022 Health, Wellness & Biotech \u2022 Robotics \u2022 Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/venture/most-active-us-investors-july-2024-andreessen/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category name that best fits the article title 'Most-Active US Investors In July: Andreessen Horowitz Led Cool Month' is 'Fundings'."
     },
     {
         "Title": "The Week\u2019s 10 Biggest Funding Rounds: Anduril Industries Raises Big For Defense",
         "Details": "Chris Metinko August 9, 2024",
         "Type": "Artificial intelligence \u2022 Cybersecurity \u2022 Health, Wellness & Biotech \u2022 Semiconductors and 5G \u2022 Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-defense-tech-ai-biotech/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category name that best fits the article title 'The Week\u2019s 10 Biggest Funding Rounds: Anduril Industries Raises Big For Defense' is 'Fundings'."
     },
     {
         "Title": "US Series A And B Funding Picked Up in H1. What Does That Mean For Funding In 2024?",
         "Details": "Gen\u00e9 Teare August 9, 2024",
         "Type": "Artificial intelligence \u2022 Health, Wellness & Biotech \u2022 Startups \u2022 Venture",
         "URL": "https://news.crunchbase.com/venture/us-a-b-series-funding-uptick-h1-2024-healthcare-ai/",
-        "Source": "Crunchbase News"
+        "Source": "Crunchbase News",
+        "Category": "The category name most relevant to the article title 'US Series A And B Funding Picked Up in H1. What Does That Mean For Funding In 2024?' would be 'Fundings'."
     },
     {
         "Title": "\u201cThe Door Problem\u201d",
         "Details": "via deejayy 5 hours ago",
         "Type": "[design, games]",
         "URL": "https://lizengland.com/blog/2014/04/the-door-problem/",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Without additional context or content from the article titled \"The Door Problem\" shared by deejayy 5 hours ago, it is not possible to accurately determine the category from the provided options. The title \"The Door Problem\" could potentially relate to a technical issue, a design challenge in AI, a security matter, or even a metaphorical problem in any of the other categories. More information would be needed to make an informed categorization."
     },
     {
         "Title": "Safer C++",
         "Details": "via carlana 5 hours ago",
         "Type": "[c++]",
         "URL": "https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the article title 'Safer C++', the most relevant category from the provided options would likely be 'Tech'. This is because C++ is a programming language, and discussions about making it safer would typically involve technical aspects such as software development practices, language features, or compiler improvements."
     },
     {
         "Title": "Reckoning",
         "Details": "via c-cube 18 hours ago",
         "Type": "[web]",
         "URL": "https://infrequently.org/series/reckoning/",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the information provided, it is not possible to accurately determine the category of the article titled 'Reckoning' with the detail 'via c-cube 18 hours ago' without additional context. The title 'Reckoning' could potentially fit into multiple categories depending on the content of the article. For example, it could be related to 'Tech' if it discusses technological advancements or issues, 'AI' if it's about artificial intelligence, or 'Security' if it's about cybersecurity or data privacy.\n\nWithout further information about the content of the article, I cannot return a specific category from the options provided. If you can provide more details about the article, I would be able to assist you better."
     },
     {
         "Title": "What photo library software do you use?",
         "Details": "authored by knl 21 hours ago",
         "Type": "[ask, android, ios]",
         "URL": "/s/juh3rx/what_photo_library_software_do_you_use",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the article title 'What photo library software do you use?' and the context provided, the most appropriate category from the given options would be:\n\n'Tech'"
     },
     {
         "Title": "You might be overusing Vim visual mode",
         "Details": "via telemachus 4 hours ago",
         "Type": "[vim]",
         "URL": "https://m4xshen.dev/posts/overuse-vim-visual-mode",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the article title 'You might be overusing Vim visual mode', the most appropriate category from the provided options would be 'Tech'."
     },
     {
         "Title": "Are there languages with first class table support, similar to struct or map?",
         "Details": "authored by zupa 22 hours ago",
         "Type": "[ask, plt]",
         "URL": "/s/mdaext/are_there_languages_with_first_class",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "The category that best fits the article titled 'Are there languages with first class table support, similar to struct or map?' would be 'Tech'."
     },
     {
         "Title": "Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys",
         "Details": "via gmem 5 hours ago",
         "Type": "[cryptography]",
         "URL": "https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "The category that best fits the article title 'Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys' is 'Security'. This is because the title refers to the decryption of media, which is a topic typically associated with cybersecurity and encryption."
     },
     {
         "Title": "Just use Postgres",
         "Details": "via gmem 31 hours ago",
         "Type": "[databases]",
         "URL": "https://mccue.dev/pages/8-16-24-just-use-postgres",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the article title 'Just use Postgres' and the context provided, the most appropriate category from the given options would be 'Tech'."
     },
     {
         "Title": "An unordered list of things I miss in Go",
         "Details": "authored by kokada 27 hours ago",
         "Type": "[go]",
         "URL": "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the article title 'An unordered list of things I miss in Go' and the details provided, the most appropriate category from the given options would be 'Tech'."
     },
     {
         "Title": "bashfuck: Write any bash with only the punctuation characters",
         "Details": "authored by meithecatte 1 hour ago",
         "Type": "[unix]",
         "URL": "https://github.com/meithecatte/bashfuck",
-        "Source": "Lobsters"
+        "Source": "Lobsters",
+        "Category": "Based on the article title 'bashfuck: Write any bash with only the punctuation characters', the most appropriate category from the provided options would be 'Tech'."
     },
     {
         "Title": "Surveillance Watch \u2013 the hidden connections within the surveillance industry",
         "Details": "66 points by nabla9 2 hours ago  | 12\u00a0comments",
         "Type": "(surveillancewatch.io)",
         "URL": "https://www.surveillancewatch.io",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Surveillance Watch \u2013 the hidden connections within the surveillance industry', the most relevant category from the provided options would be 'Security'."
     },
     {
         "Title": "TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV",
         "Details": "156 points by edward 4 hours ago  | 31\u00a0comments",
         "Type": "(github.com/tomwright)",
         "URL": "https://github.com/TomWright/dasel",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV' would be 'Tech'."
     },
     {
         "Title": "Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules",
         "Details": "154 points by throwup238 1 hour ago  | 52\u00a0comments",
         "Type": "(reason.com)",
         "URL": "https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category that best fits the article title 'Police Cannot Seize Property Indefinitely After an Arrest, Federal Court Rules' is 'Security'."
     },
     {
         "Title": "The Expert Mind [pdf]",
         "Details": "62 points by JustinSkycak 3 hours ago  | 32\u00a0comments",
         "Type": "(utdallas.edu)",
         "URL": "https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the information provided, it is not possible to definitively categorize the article titled 'The Expert Mind [pdf]' into one of the specified categories: ['Tech', 'Job Openings', 'Fundings', 'AI', 'Security', 'Transportation']. The title 'The Expert Mind' could potentially relate to a number of different fields, including psychology, cognitive science, AI (if it's about artificial intelligence experts), or even tech more broadly if it's about expertise in technological fields.\n\nHowever, without additional context or content from the article, assigning a specific category from the list would be speculative. If you can provide more details about the content of the article, I could attempt to categorize it more accurately."
     },
     {
         "Title": "Fear Not the Association of Types",
         "Details": "11 points by todsacerdoti 1 hour ago  | discuss",
         "Type": "(gavinleroy.com)",
         "URL": "https://gavinleroy.com/writings/i-heart-assoc-types.html",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Fear Not the Association of Types' and without additional context, it is challenging to definitively categorize the article into one of the provided categories. However, the title suggests a topic that could be related to programming or computer science, which might fall under 'Tech' or 'AI' if it pertains to artificial intelligence type systems. Since 'AI' is more specific and 'Tech' is broader, 'Tech' would be a safer choice without further information.\n\nCategory name: Tech"
     },
     {
         "Title": "Getting back into C programming for CP/M",
         "Details": "119 points by AlexeyBrin 6 hours ago  | 55\u00a0comments",
         "Type": "(kevinboone.me)",
         "URL": "https://kevinboone.me/cpm-c.html",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name for the article titled 'Getting back into C programming for CP/M' would most likely be 'Tech'."
     },
     {
         "Title": "`noexcept` affects libstdc++'s `unordered_set`",
         "Details": "22 points by signa11 2 hours ago  | 6\u00a0comments",
         "Type": "(quuxplusone.github.io)",
         "URL": "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title '`noexcept` affects libstdc++'s `unordered_set`' would be 'Tech'."
     },
     {
         "Title": "How the instrument landing system at Antarctica's McMurdo Station works",
         "Details": "15 points by rmnwski 2 hours ago  | discuss",
         "Type": "(flightradar24.com)",
         "URL": "https://www.flightradar24.com/blog/transponder-landing-system/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'How the instrument landing system at Antarctica's McMurdo Station works' is 'Transportation'."
     },
     {
         "Title": "Ashby (YC W19) Is Hiring Engineers Who Can Design",
         "Details": "1 hour ago",
         "Type": "(ashbyhq.com)",
         "URL": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=145ff46b-1441-4773-bcd3-c8c90baa598a",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category that fits the article title 'Ashby (YC W19) Is Hiring Engineers Who Can Design' is 'Job Openings'."
     },
     {
         "Title": "How the OCaml type checker works (2022)",
         "Details": "128 points by mooreds 7 hours ago  | 29\u00a0comments",
         "Type": "(okmij.org)",
         "URL": "https://okmij.org/ftp/ML/generalization.html",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article titled 'How the OCaml type checker works (2022)' would be 'Tech'."
     },
     {
         "Title": "Mpv \u2013 A free, open-source, and cross-platform media player",
         "Details": "901 points by Bluestein 23 hours ago  | 441\u00a0comments",
         "Type": "(mpv.io)",
         "URL": "https://mpv.io/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'Mpv \u2013 A free, open-source, and cross-platform media player' is 'Tech'."
     },
     {
         "Title": "Greenwich schools to ban most cellphones, Apple Watches, Fitbits and more",
         "Details": "31 points by bookofjoe 1 hour ago  | 22\u00a0comments",
         "Type": "(greenwichtime.com)",
         "URL": "https://www.greenwichtime.com/news/education/article/greenwich-schools-cellphones-ban-fitbit-19660245.php",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Tech"
     },
     {
         "Title": "Magic Wormhole: get things from one computer to another, safely",
         "Details": "698 points by tosh 1 day ago  | 221\u00a0comments",
         "Type": "(github.com/magic-wormhole)",
         "URL": "https://github.com/magic-wormhole/magic-wormhole",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article titled 'Magic Wormhole: get things from one computer to another, safely' would be 'Security'."
     },
     {
         "Title": "Ask for Advice, Not Permission (2015)",
         "Details": "194 points by BerislavLopac 12 hours ago  | 72\u00a0comments",
         "Type": "(boz.com)",
         "URL": "https://boz.com/articles/advice-not-permission",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the information provided, it is not possible to definitively categorize the article titled 'Ask for Advice, Not Permission (2015)' into one of the specific categories listed: ['Tech', 'Job Openings', 'Fundings', 'AI', 'Security', 'Transportation']. The title suggests a general advice or business strategy topic, which does not clearly fit into any of the given categories without additional context.\n\nIf I had to guess, I might lean towards \"Tech\" as it is a common category for discussions about business strategies in the tech industry, but this is purely speculative. Without more information about the content of the article, I cannot accurately assign a category from the options provided."
     },
     {
         "Title": "Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out",
         "Details": "398 points by miles 1 day ago  | 262\u00a0comments",
         "Type": "(csoonline.com)",
         "URL": "https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out' is 'Security'."
     },
     {
         "Title": "Blocking=render: Why would you do that?",
         "Details": "10 points by pinjasaur 4 hours ago  | 1\u00a0comment",
         "Type": "(csswizardry.com)",
         "URL": "https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Blocking=render: Why would you do that?', the most likely category from the provided options would be 'Tech'. The term \"blocking render\" is typically associated with web development or software engineering, which falls under the broader category of technology."
     },
     {
         "Title": "Genghis Khan, trade warrior (2021)",
         "Details": "15 points by WildestDreams_ 5 hours ago  | 4\u00a0comments",
         "Type": "(richmondfed.org)",
         "URL": "https://www.richmondfed.org/publications/research/econ_focus/2021/q4_economic_history",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "None of the provided category options ('Tech', 'Job Openings', 'Fundings', 'AI', 'Security', 'Transportation') directly relate to the article title 'Genghis Khan, trade warrior (2021)'. The title suggests a historical or economic context, which does not fit into any of the given categories. If I had to choose the closest category, it might be 'Transportation' due to the historical trade routes established during Genghis Khan's time, but this is a stretch without more context. If the article discusses the impact of Genghis Khan's trade policies on modern economics or trade technologies, it could potentially fit under 'Tech', but this is speculative. Without additional information, it is not possible to accurately categorize the article based on the given options."
     },
     {
         "Title": "Yesterday's Pixels, Today",
         "Details": "155 points by luu 17 hours ago  | 39\u00a0comments",
         "Type": "(nas.sr)",
         "URL": "https://nas.sr/text/yesterdays-pixels-today/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Yesterday's Pixels, Today' and without additional context, it is challenging to definitively categorize the article into one of the provided categories. However, the title suggests a topic related to technology, possibly discussing retro graphics, pixel art, or the evolution of display technology. Therefore, the most likely category from the given options would be:\n\n'Tech'"
     },
     {
         "Title": "Blockbuster Video VHS insert template",
         "Details": "304 points by zdw 1 day ago  | 71\u00a0comments",
         "Type": "(github.com/rfinnie)",
         "URL": "https://github.com/rfinnie/blockbuster",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The article title 'Blockbuster Video VHS insert template' does not directly relate to any of the provided categories such as 'Tech', 'Job Openings', 'Fundings', 'AI', 'Security', or 'Transportation'. However, if we were to make an educated guess based on the context of the title, it seems to be related to a nostalgic or historical aspect of technology, specifically related to the era when VHS tapes were popular.\n\nGiven the options, the closest category could be 'Tech', as it might pertain to technology from a past era. None of the other categories like 'Job Openings', 'Fundings', 'AI', 'Security', or 'Transportation' seem to fit the context of a Blockbuster Video VHS insert template.\n\nTherefore, the category name would be 'Tech'."
     },
     {
         "Title": "Abel, the Mozart of Mathematics",
         "Details": "80 points by chmaynard 13 hours ago  | 10\u00a0comments",
         "Type": "(privatdozent.co)",
         "URL": "https://www.privatdozent.co/p/abel-the-mozart-of-mathematics",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Abel, the Mozart of Mathematics', the category name that would best fit from the provided options is not explicitly listed. However, since the title refers to a mathematician (Abel) and compares him to Mozart, suggesting a discussion about a historical figure in mathematics, the most appropriate category from the given list would be 'Tech', as it is the broadest category that could encompass discussions about mathematics and its historical figures. None of the other categories ('Job Openings', 'Fundings', 'AI', 'Security', 'Transportation') seem directly relevant to the subject of mathematics or mathematicians."
     },
     {
         "Title": "Games People Play with Cash Flow (2020)",
         "Details": "159 points by simonebrunozzi 14 hours ago  | 62\u00a0comments",
         "Type": "(commoncog.com)",
         "URL": "https://commoncog.com/cash-flow-games/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Games People Play with Cash Flow (2020)' and the details provided, it is not possible to definitively categorize the article into one of the specific categories listed without additional context. However, the title suggests that the article might be related to financial strategies or business practices, which could potentially fall under 'Fundings' if it is related to how companies manage their cash flow in the context of investments or fundraising.\n\nWithout more information about the content of the article, it is a guess. If you can provide more context or details about the article, I could give a more accurate categorization."
     },
     {
         "Title": "I spent 2 years building my own game engine (Rust, WASM, WebGPU)",
         "Details": "121 points by upmind 18 hours ago  | 37\u00a0comments",
         "Type": "(legendofworlds.com)",
         "URL": "https://legendofworlds.com/blog/4",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'I spent 2 years building my own game engine (Rust, WASM, WebGPU)' would be 'Tech'."
     },
     {
         "Title": "Transaction models are programming paradigms",
         "Details": "28 points by surprisetalk 8 hours ago  | 2\u00a0comments",
         "Type": "(mmapped.blog)",
         "URL": "https://mmapped.blog/posts/30-transaction-models",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category that best fits the article title 'Transaction models are programming paradigms' is 'Tech'."
     },
     {
         "Title": "Alien \u2013 CUDA-powered artificial life simulation program",
         "Details": "264 points by apitman 1 day ago  | 21\u00a0comments",
         "Type": "(github.com/chrxh)",
         "URL": "https://github.com/chrxh/alien",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'Alien \u2013 CUDA-powered artificial life simulation program' is 'AI'."
     },
     {
         "Title": "NASA Citizen Scientists Spot Object Moving 1M Miles per Hour",
         "Details": "44 points by mywacaday 4 hours ago  | 13\u00a0comments",
         "Type": "(nasa.gov)",
         "URL": "https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category that best fits the article title 'NASA Citizen Scientists Spot Object Moving 1M Miles per Hour' would be 'Tech'."
     },
     {
         "Title": "What if Germany had invested in nuclear power?",
         "Details": "8 points by haltingproblem 47 minutes ago  | 1\u00a0comment",
         "Type": "(tandfonline.com)",
         "URL": "https://www.tandfonline.com/doi/full/10.1080/14786451.2024.2355642#d1e1559",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "None of the provided category options ('Tech', 'Job Openings', 'Fundings', 'AI', 'Security', 'Transportation') directly relate to the article title 'What if Germany had invested in nuclear power?' as it seems to pertain to a hypothetical scenario regarding energy policy or energy infrastructure. However, if I must choose the closest category from the given options, 'Tech' could be the most relevant, as nuclear power can be considered a form of technology in the energy sector. But please note that a more appropriate category might be 'Energy' or 'Environment', which are not listed among the provided options."
     },
     {
         "Title": "Popular introduction to Huffman, arithmetic, ANS coding [video]",
         "Details": "5 points by jerryX 50 minutes ago  | discuss",
         "Type": "(youtube.com)",
         "URL": "https://www.youtube.com/watch?v=RFWJM8JMXBs",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'Popular introduction to Huffman, arithmetic, ANS coding [video]' would be 'Tech'. These coding methods are related to data compression and information theory, which are technical subjects."
     },
     {
         "Title": "Increasing Retention Without Increasing Study Time [pdf]",
         "Details": "342 points by JustinSkycak 1 day ago  | 124\u00a0comments",
         "Type": "(ed.gov)",
         "URL": "https://files.eric.ed.gov/fulltext/ED505647.pdf",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "Based on the article title 'Increasing Retention Without Increasing Study Time,' it does not directly relate to any of the provided categories such as 'Tech', 'Job Openings', 'Fundings', 'AI', 'Security', or 'Transportation'. The title suggests a focus on education or learning techniques. However, if I must choose from the given options, the closest category could be 'Tech', as it might involve techniques or technologies used to enhance learning efficiency. But this is a speculative categorization without additional context."
     },
     {
         "Title": "Biggest productivity killers in the engineering industry",
         "Details": "33 points by bubblehack3r 3 hours ago  | 23\u00a0comments",
         "Type": "(eng-leadership.com)",
         "URL": "https://newsletter.eng-leadership.com/p/biggest-productivity-killers-in-the",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "The category name that best fits the article title 'Biggest productivity killers in the engineering industry' from the provided options is 'Tech'."
     },
     {
         "Title": "Magic mushroom chocolates are having a moment. But do they contain mushrooms?",
         "Details": "5 points by PaulHoule 1 hour ago  | 1\u00a0comment",
         "Type": "(latimes.com)",
         "URL": "https://www.latimes.com/california/story/2024-08-09/magic-mushroom-chocolates-are-having-a-moment-but-do-they-even-contain-mushrooms",
-        "Source": "YCombinator"
+        "Source": "YCombinator",
+        "Category": "None of the provided category options directly relate to the article title 'Magic mushroom chocolates are having a moment. But do they contain mushrooms?' The article seems to be about a food product potentially containing psychoactive substances, which doesn't fit into 'Tech', 'Job Openings', 'Fundings', 'AI', 'Security', or 'Transportation'. If I had to choose the closest category from the given options, I would not be able to, as none of them are relevant to the subject matter of the article."
     },
     {
         "Title": "Danish VC Nine Realms receives \u20ac50M from EIF to invest in European supply chain sector",
         "Details": "Danish VC Nine Realms receives \u20ac50M from EIF to invest in European supply chain sector",
         "Type": "Europe Tech News, Funding News, Latest News, Top Stories, VC News",
         "URL": "https://techfundingnews.com/danish-vc-nine-realms-receives-e50m-from-eif-to-invest-in-european-supply-chain-sector/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "Jeff Bezos\u2019 brother launches HIPstr, a $100M debut fund",
         "Details": "Jeff Bezos\u2019 brother launches HIPstr, a $100M debut fund",
         "Type": "Funding News, Latest News, Top Funding Rounds, Top Stories, US Tech News",
         "URL": "https://techfundingnews.com/jeff-bezos-brother-launches-hipstr-a-100m-debut-fund/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "Berlin-based Caresyntax raises $180M for AI surgery platform",
         "Details": "Berlin-based Caresyntax raises $180M for AI surgery platform",
         "Type": "Europe Tech News, Funding News, Latest News, Startups News, Top Funding Rounds, Top Stories",
         "URL": "https://techfundingnews.com/berlin-based-caresyntax-raises-180m-for-ai-surgery-platform/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "Cybersecurity unicorn Kiteworks snaps $465M at over $1B valuation to secure communications",
         "Details": "Cybersecurity unicorn Kiteworks snaps $465M at over $1B valuation to secure communications",
         "Type": "Funding News, Latest News, Top Funding Rounds, Top Stories, Unicorns, US Tech News",
         "URL": "https://techfundingnews.com/cybersecurity-unicorn-kiteworks-snaps-465m-at-over-1b-valuation-to-secure-communications/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "AI for code reviews: CodeRabbit snaps $16M to help developers debug faster",
         "Details": "AI for code reviews: CodeRabbit snaps $16M to help developers debug faster",
         "Type": "Funding News, Latest News, Startups News, Top Stories, US Tech News",
         "URL": "https://techfundingnews.com/ai-for-code-reviews-coderabbit-snaps-16m-to-help-developers-debug-faster/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "London-based Hexarad secures \u20ac13M to help NHS address radiology backlogs",
         "Details": "London-based Hexarad secures \u20ac13M to help NHS address radiology backlogs",
         "Type": "Funding News, Latest News, Startups News, Top Stories, UK Tech News",
         "URL": "https://techfundingnews.com/london-based-hexarad-secures-e13m-to-help-nhs-address-radiology-backlogs/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "Swedish grid startup Flower scoops \u20ac25M to use clean energy to power society",
         "Details": "Swedish grid startup Flower scoops \u20ac25M to use clean energy to power society",
         "Type": "Europe Tech News, Funding News, Latest News, Startups News",
         "URL": "https://techfundingnews.com/swedish-grid-startup-flower-scoops-e25m-to-use-clean-energy-to-power-society/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "London-based trumpet secures $6.35M to create personalised digital sales rooms",
         "Details": "London-based trumpet secures $6.35M to create personalised digital sales rooms",
         "Type": "Funding News, Latest News, Startups News, Top Stories, UK Tech News",
         "URL": "https://techfundingnews.com/london-based-trumpet-secures-6-35m-to-create-personalised-digital-sales-rooms/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "Founders Factory\u2019s Bianca F. shares her golden rules on building an AI startup and overcoming \u2018default capacity\u2019 in tech industry",
         "Details": "Founders Factory\u2019s Bianca F. shares her golden rules on building an AI startup and overcoming \u2018default capacity\u2019 in tech industry",
         "Type": "AI News, Interviews, Latest News, TFN Partner Content, Top Stories",
         "URL": "https://techfundingnews.com/founders-factorys-bianca-f-shares-her-golden-rules-on-building-an-ai-startup-and-overcoming-default-capacity-in-tech-industry/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "AI"
     },
     {
         "Title": "AI proptech unicorn EliseAI raises $75M for chatbots connecting renters and property managers",
         "Details": "AI proptech unicorn EliseAI raises $75M for chatbots connecting renters and property managers",
         "Type": "Funding News, Latest News, Top Stories, Unicorns, US Tech News",
         "URL": "https://techfundingnews.com/ai-proptech-unicorn-eliseai-raises-75m-for-chatbots-connecting-renters-and-property-managers/",
-        "Source": "Tech Funding News"
+        "Source": "Tech Funding News",
+        "Category": "Fundings"
     },
     {
         "Title": "Apple is Building a $1,000 Display on a Voice-Controlled Robot Arm",
         "Details": "Posted by EditorDavid on Sunday August 18, 2024 @01:06PM from the screen-time dept. Apple [is building \"a pricey tabletop home device](https://finance.yahoo.com/news/apple-pushes-ahead-tabletop-robot-180908327.html)\" which uses \"a thin robotic arm to move around a large screen,\" using actuators \"to tilt the display up and down and make it spin 360 degree,\" according to Bloomberg's Mark Gurman. Citing \"people with knowledge of the matter,\" Gurman writes that Apple assigned \"several hundred people\" to the project...",
         "Type": "story",
         "URL": "//apple.slashdot.org/story/24/08/18/174205/apple-is-building-a-1000-display-on-a-voice-controlled-robot-arm",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Data Centers Are Consuming Electricity Supplies - and Possibly Hurting the Environment",
         "Details": "Posted by EditorDavid on Sunday August 18, 2024 @11:34AM from the downsides-of-AI dept. Data center construction \"could delay California's transition away from fossil fuels and raise electric bills for everyone else,\" [warns the Los Angeles Times](https://www.yahoo.com/news/explosion-power-hungry-data-centers-100028011.html) \u2014 and also increase the risk of blackouts...",
         "Type": "story",
         "URL": "//hardware.slashdot.org/story/24/08/18/0314214/data-centers-are-consuming-electricity-supplies---and-possibly-hurting-the-environment",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Cancel Bill Gates? New Book Paints Philanthropist as Billionaire Villain",
         "Details": "Posted by EditorDavid on Sunday August 18, 2024 @10:04AM from the Gates-of-hell dept. The Washington Post [reviews a new book about Microsoft's 68-year-old co-founder Bill Gates](https://www.msn.com/en-us/news/other/is-bill-gates-a-savior-or-a-villain/ar-AA1oJkZg):...",
         "Type": "story",
         "URL": "//news.slashdot.org/story/24/08/17/0229221/cancel-bill-gates-new-book-paints-philanthropist-as-billionaire-villain",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Will Electronic Price Labels Tempt Stores to Try 'Dynamic Pricing'?",
         "Details": "Posted by EditorDavid on Sunday August 18, 2024 @07:34AM from the today's-special dept. \"Electronic shelf labels are already common in Europe,\" [reports the Los Angeles Times](https://www.yahoo.com/news/future-shopping-digital-price-tags-100003609.html), \"and will become wider spread in the U.S., with Walmart planning to implement the labels in 2,300 stores by 2026.\" And grocery giant Kroger also plans to introduce digital labels...",
         "Type": "story",
         "URL": "//slashdot.org/story/24/08/18/0143247/will-electronic-price-labels-tempt-stores-to-try-dynamic-pricing",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "41 Science Professionals Decry Harms and Mistrust Caused By COVID Lab Leak Claim",
         "Details": "Posted by EditorDavid on Sunday August 18, 2024 @03:34AM from the origin-stories dept. In 1999 Los Angeles Times reporter Michael Hiltzik co-authored a Pulitzer Prize-winning story. Now a business columnist for the Times, this week he [covers new pushback on the COVID lab leak claim](https://www.yahoo.com/news/column-covid-lab-leak-claim-100050448.html):...",
         "Type": "story",
         "URL": "//tech.slashdot.org/story/24/08/18/017252/41-science-professionals-decry-harms-and-mistrust-caused-by-covid-lab-leak-claim",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "The category that best fits the article title '41 Science Professionals Decry Harms and Mistrust Caused By COVID Lab Leak Claim' is 'Security'. This is because the topic deals with the potential risks and implications of misinformation or controversial claims related to a virus's origin, which can be considered a matter of biosecurity and public health security."
     },
     {
         "Title": "As 17,000 AT&T Workers Strike, Some Customers Experience 'Prolonged' Outages",
         "Details": "Posted by EditorDavid on Sunday August 18, 2024 @12:34AM from the union-set dept. 17,000 AT&T workers from the CWA union went on strike Friday. NPR notes the strike [affects workers in nine states](https://www.npr.org/2024/08/17/nx-s1-5079614/att-workers-strike-contract-negotiations): Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina and Tennessee. A North Carolina newspaper [says the union will remain on strike](https://www.newsobserver.com/news/business/article291148025.html) until they believe AT&T \"begins to bargain over a new contract in good faith\" after their previous contract expired back on August 3...",
         "Type": "story",
         "URL": "//news.slashdot.org/story/24/08/18/0228218/as-17000-att-workers-strike-some-customers-experience-prolonged-outages",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Ask Slashdot: What Network-Attached Storage Setup Do You Use?",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @10:24PM from the little-NAS dept. \"I've been somewhat okay about backing up our home data,\" writes long-time Slashdot reader [93 Escort Wagon](https://www.slashdot.org/~93+Escort+Wagon). But they could use some good advice...",
         "Type": "story",
         "URL": "//hardware.slashdot.org/story/24/08/17/1848207/ask-slashdot-what-network-attached-storage-setup-do-you-use",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Refueling Hydrogen Cars in California is So Annoying, Drivers are Suing Toyota",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @08:25PM from the it's-a-gas dept. The Los Angeles Times spoke to Ryan Kiskis, an environmentally-conscious [owner of a hydrogen fuel cell vehicle](https://www.yahoo.com/news/drivers-hydrogen-cars-annoyed-california-100052443.html) (the Toyota Mirai):...",
         "Type": "story",
         "URL": "//hardware.slashdot.org/story/24/08/18/0023218/refueling-hydrogen-cars-in-california-is-so-annoying-drivers-are-suing-toyota",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Transportation"
     },
     {
         "Title": "'AI-Powered Remediation': GitHub Now Offers 'Copilot Autofix' Suggestions for Code Vulnerabilities",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @06:39PM from the move-fast-and-fix-things dept. InfoWorld reports that Microsoft-owned GitHub \"has unveiled Copilot Autofix, [an AI-powered software vulnerability remediation service](https://www.infoworld.com/article/3487305/github-rolls-out-ai-powered-fixes-for-code-vulnerabilities.html).\"...",
         "Type": "story",
         "URL": "//developers.slashdot.org/story/24/08/17/0532221/ai-powered-remediation-github-now-offers-copilot-autofix-suggestions-for-code-vulnerabilities",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Paul Allen's Estate Auction Includes Vintage Apple-1, CP/M and DOS-Powered Computers",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @04:34PM from the famous-co-founders dept. Long-time Slashdot reader [theodp](/~theodp) writes: *Christie's this week announced the items that will be [auctioned in three sales from the Paul G. Allen Collection](https://www.geekwire.com/2024/apple-1-from-steve-jobs-desk-among-items-in-christies-auction-from-late-microsoft-co-founder-paul-allens-collection/), including historic computers and artifacts from the late Microsoft co-founder's [former](https://hardware.slashdot.org/story/24/06/25/2031227/seattles-living-computers-museum-logs-off-for-good) Living Computers Museum + Labs in Seattle...",
         "Type": "story",
         "URL": "//slashdot.org/story/24/08/17/1949252/paul-allens-estate-auction-includes-vintage-apple-1-cpm-and-dos-powered-computers",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "The category name for the article is 'Tech'."
     },
     {
         "Title": "2024's Hugo Award Winners Announced",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @03:34PM from the congratulations dept. Slashdot reader [Dave Knott](/~Dave+Knott) writes: *After once again being plagued by controversy, this time due to [a thwarted ballot-stuffing campaign](https://slashdot.org/story/24/07/24/210224/hugo-awards-organizers-reveal-thousands-spent-on-fraudulent-votes-to-help-one-writer-win), the [2024 Hugo Awards have been awarded](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/) at the 2024 World Science Fiction Convention...",
         "Type": "story",
         "URL": "//entertainment.slashdot.org/story/24/08/17/1915239/2024s-hugo-award-winners-announced",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "None of the provided category options directly relate to the content described in the article title and details. The Hugo Awards are associated with science fiction and fantasy literature, not with the categories listed. However, if I had to choose the closest related category from the provided options, I would select \"Tech\" since science fiction often deals with technological themes and advancements. But please note that this is a loose association and not an exact match."
     },
     {
         "Title": "To Fight Censorship Order, X.com Announces It's Ending Business Operations in Brazil",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @02:34PM from the X-ing-out dept. X.com \"says it's ending business operations in Brazil effective immediately,\" [reports *Engadget*](https://www.engadget.com/social-media/x-is-closing-its-operations-in-brazil-immediately-but-its-service-will-remain-live-for-users-165224020.html), \"but the service will remain available to users in the country.\"...",
         "Type": "story",
         "URL": "//yro.slashdot.org/story/24/08/17/1733256/to-fight-censorship-order-xcom-announces-its-ending-business-operations-in-brazil",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Can the US Regulate Algorithm-Based Price Fixing on Rental Housing?",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @01:34PM from the fix-is-in dept. \"Some corporate landlords collude with each other to set artificially high rental prices, often using algorithms and price-fixing software to do it.\" That's a U.S. presidential candidate, [speaking](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/16/remarks-by-vice-president-harris-at-a-campaign-event-in-raleigh-nc/) yesterday in North Carolina to warn that the practice \"is anticompetitive, and it drives up costs. I will fight for a law that cracks down on these practices.\"...",
         "Type": "story",
         "URL": "//news.slashdot.org/story/24/08/17/1724214/can-the-us-regulate-algorithm-based-price-fixing-on-rental-housing",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     },
     {
         "Title": "Preparing to Monetize, Threads Launches New Tools for Users",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @12:34PM from the loose-Threads dept. \"We're testing a few new ways to plan and manage your presence on Threads,\" [announced top Threads/Instagram executive Adam Mosseri](https://www.threads.net/@mosseri/post/C-s1DKlvejb), promising their [200 million-plus users](https://tech.slashdot.org/story/24/08/02/2014209/metas-threads-crosses-200-million-active-users) \"enhanced insights to help you better understand your followers and how posts perform, and the ability to save multiple drafts with scheduling coming soon.\"...",
         "Type": "story",
         "URL": "//tech.slashdot.org/story/24/08/17/068249/preparing-to-monetize-threads-launches-new-tools-for-users",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "The category name that fits the article title 'Preparing to Monetize, Threads Launches New Tools for Users' is 'Tech'."
     },
     {
         "Title": "Space Telescope Data Reignites Debate Over How Fast Our Universe Is Expanding",
         "Details": "Posted by EditorDavid on Saturday August 17, 2024 @11:34AM from the only-constant-is-change dept. \"A new front has opened in the longstanding debate over how fast the universe is expanding,\" [writes *Science* magazine](https://www.science.org/content/article/space-telescope-data-reignite-debate-over-how-fast-universe-expanding-and-whether-new):...",
         "Type": "story",
         "URL": "//science.slashdot.org/story/24/08/17/0320247/space-telescope-data-reignites-debate-over-how-fast-our-universe-is-expanding",
-        "Source": "Slashdot"
+        "Source": "Slashdot",
+        "Category": "Tech"
     }
 ]
