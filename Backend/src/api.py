@@ -1,7 +1,6 @@
 import utility
 from flask import Blueprint, request, jsonify
 from datetime import datetime
-from flask_apscheduler import APScheduler
 
 api_blueprint = Blueprint('api', __name__)
 
