@@ -6,8 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 Project-TechUpdates is a project aimed at providing the latest updates in technology. It leverages Python for backend processing and TypeScript for frontend development, with additional components in JavaScript, HTML, and CSS.
@@ -63,10 +61,3 @@ We welcome contributions to Project-TechUpdates! Please follow these guidelines:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Thank you to all contributors and supporters of this project.
-- Special thanks to the open-source community for providing the tools and resources that make this project possible.
